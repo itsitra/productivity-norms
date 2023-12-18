@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675493399341",
+    "project_id": "testsitra-24704",
+    "storage_bucket": "testsitra-24704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675493399341:android:0f6582a62efd10b60aa1a4",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675493399341-ov7tmn8m0n87r87j4kq41re7es5crpnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCzsbuqMAWvjLcbFU1n6q3kJdyN0iZKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675493399341-ov7tmn8m0n87r87j4kq41re7es5crpnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
